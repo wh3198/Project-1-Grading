@@ -1,0 +1,7 @@
+Web Site Lists:
+
+Basically I used Google Search to look for some detailed direction on
+specific CSS attributes.  Depending on the search results I was
+directed to a variety of different sites that provide CSS references.
+I didn't keep track of the actual sites as I don't recall that being
+in the instructions for the project.
